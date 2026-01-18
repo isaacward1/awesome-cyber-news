@@ -111,6 +111,7 @@ Bolster | https://bolster.ai/category/research-labs | https://bolster.ai/categor
 BlueVoyant | https://www.bluevoyant.com/blog?page=1&topic=threat-intelligence |
 Socket.dev | https://socket.dev/blog/category/research |
 Acronis TRU | https://www.acronis.com/en/tru/ | https://www.acronis.com/en-us/tru/feed.xml
+Expel TI | https://expel.com/blog/category/threat-intel/ | 
 
 <br>
 
