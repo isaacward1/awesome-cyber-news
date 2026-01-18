@@ -109,6 +109,7 @@ Datadog Security Labs | https://securitylabs.datadoghq.com/articles/?tag=threat_
 Nextron Systems | https://www.nextron-systems.com/blog/ | https://www.nextron-systems.com/feed/
 Bolster | https://bolster.ai/category/research-labs | https://bolster.ai/category/research-labs/feed
 BlueVoyant | https://www.bluevoyant.com/blog?page=1&topic=threat-intelligence |
+Socket.dev | https://socket.dev/blog/category/research |
 
 <br>
 
