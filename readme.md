@@ -161,5 +161,6 @@ Exploit-DB | https://www.exploit-db.com | https://www.exploit-db.com/rss.xml
 SOCRadar \| CVE Radar | https://socradar.io/labs/app/cve-radar | 
 GitHub Advisory Database | https://github.com/advisories | 
 CVEdetails | https://cvedetails.com/ | 
+Project Zero | https://projectzero.google/archive.html | https://projectzero.google/feed.xml
 
 <br>
